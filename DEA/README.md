@@ -10,3 +10,6 @@
 * Volcano plot
 * Gene set enrichment analysis
 * Gene Networks(Pathway, Enrichment network, Tissue network, TF-network, Gene-Protein network)
+* Manchattan plot
+* QQ plot
+

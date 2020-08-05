@@ -1,15 +1,12 @@
 Этот Блок посвящен Differential gene expression analysis
 Темы:
 * Как устроен Microarray manufacturer (Презентация A.Курсанова)
-* Валидация данных
+* Валидация данных, QC analysis, Boxplot
 * Нормализация
+* Добавление аннотации к генам
 * PCA
-* Heatmap
-* Clustermap
-* Boxplot
+* Heatmap, Clustermap
 * Volcano plot
 * Gene set enrichment analysis
 * Gene Networks(Pathway, Enrichment network, Tissue network, TF-network, Gene-Protein network)
-* Manchattan plot
-* QQ plot
-
+* Simple GWAS (QQ plot, Manchattan plot)

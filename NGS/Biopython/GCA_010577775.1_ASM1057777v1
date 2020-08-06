@@ -1,0 +1,13 @@
+-r--r--r--   1 ftp      anonymous  8278398 Feb 15 01:44 GCA_010577775.1_ASM1057777v1_assembly_report.txt
+-r--r--r--   1 ftp      anonymous     3310 Feb 15 01:44 GCA_010577775.1_ASM1057777v1_assembly_stats.txt
+-r--r--r--   1 ftp      anonymous      148 Apr 21 19:11 GCA_010577775.1_ASM1057777v1_feature_count.txt.gz
+-r--r--r--   1 ftp      anonymous 35557554 Feb 15 01:44 GCA_010577775.1_ASM1057777v1_genomic.fna.gz
+-r--r--r--   1 ftp      anonymous 58808324 Feb 15 01:44 GCA_010577775.1_ASM1057777v1_genomic.gbff.gz
+-r--r--r--   1 ftp      anonymous     5648 Feb 15 01:44 GCA_010577775.1_ASM1057777v1_genomic_gaps.txt.gz
+-r--r--r--   1 ftp      anonymous   639668 Feb 15 01:44 GCA_010577775.1_ASM1057777v1_rm.out.gz
+-r--r--r--   1 ftp      anonymous      992 Feb 15 01:44 GCA_010577775.1_ASM1057777v1_rm.run
+-r--r--r--   1 ftp      anonymous     1163 Feb 15 01:44 GCA_010577775.1_ASM1057777v1_wgsmaster.gbff.gz
+lr--r--r--   1 ftp      anonymous       25 Feb 15 01:44 README.txt -> ../../../../../README.txt
+-r--r--r--   1 ftp      anonymous      410 Feb 15 01:44 annotation_hashes.txt
+-r--r--r--   1 ftp      anonymous       14 Aug  5 07:12 assembly_status.txt
+-r--r--r--   1 ftp      anonymous      789 May 20 14:18 md5checksums.txt

@@ -6,10 +6,9 @@
 * Добавление аннотации к генам
 * PCA
 * Heatmap, Clustermap
-* Volcano plot
 * Gene set enrichment analysis
 * Gene Networks(Pathway, Enrichment network, Tissue network, TF-network, Gene-Protein network)
-* Simple GWAS (QQ plot, Manchattan plot)
+* Simple GWAS (QQ plot, Manchattan plot, Volcano plot)
 
 Useful links:
 * https://wikibits.ugent.be/index.php/Analyze_your_own_microarray_data_in_R/Bioconductor#Quality_control_of_microarray_data

@@ -1,0 +1,400 @@
+Query: No
+       definition line
+  Hit: gi|1586061139|gb|CP036480.1| (435026)
+       Saccharomyces cerevisiae strain ySR128 chromosome IX, complete sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]          [87948:88686]
+Query: No
+       definition line
+  Hit: gi|1511320830|gb|CP033474.1| (432728)
+       Saccharomyces cerevisiae strain Y169 chromosome 9
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]          [86674:87412]
+Query: No
+       definition line
+  Hit: gi|1511320813|gb|CP033491.1| (428296)
+       Saccharomyces cerevisiae strain X55 chromosome 9
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]          [86006:86744]
+Query: No
+       definition line
+  Hit: gi|1389182097|gb|CP029160.1| (11848804)
+       Saccharomyces cerevisiae strain SY14 chromosome I, complete sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]    [10765928:10766666]
+Query: No
+       definition line
+  Hit: gi|1386723604|gb|CP026295.1| (440032)
+       Saccharomyces cerevisiae strain BY4742 chromosome IX, complete sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]          [88023:88761]
+Query: No
+       definition line
+  Hit: gi|1163001467|gb|CP020131.1| (440036)
+       Saccharomyces cerevisiae strain S288c chromosome IX, complete sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]          [88059:88797]
+Query: No
+       definition line
+  Hit: gi|1047040830|gb|CP005016.2| (412129)
+       Saccharomyces cerevisiae YJM1083 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]          [65064:65802]
+Query: No
+       definition line
+  Hit: gi|1047040260|gb|CP004996.2| (417163)
+       Saccharomyces cerevisiae YJM470 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]          [70151:70889]
+Query: No
+       definition line
+  Hit: gi|1031917693|gb|CP004993.2| (422150)
+       Saccharomyces cerevisiae YJM451 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]          [73952:74690]
+Query: No
+       definition line
+  Hit: gi|1028010335|gb|CP004992.2| (407137)
+       Saccharomyces cerevisiae YJM450 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]          [69654:70392]
+Query: No
+       definition line
+  Hit: gi|1024297358|gb|CP004991.2| (413848)
+       Saccharomyces cerevisiae YJM428 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]          [68771:69509]
+Query: No
+       definition line
+  Hit: gi|1020924884|gb|CP005070.2| (416230)
+       Saccharomyces cerevisiae YJM1549 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]          [73138:73876]
+Query: No
+       definition line
+  Hit: gi|874346698|gb|CP011555.1| (434899)
+       Saccharomyces cerevisiae strain ySR127 chromosome IX, complete sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]          [87882:88620]
+Query: No
+       definition line
+  Hit: gi|329138906|tpg|BK006942.2| (439888)
+       TPA_inf: Saccharomyces cerevisiae S288C chromosome IX, complete sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]          [87978:88716]
+Query: No
+       definition line
+  Hit: gi|296145633|ref|NM_001179487.1| (738)
+       Saccharomyces cerevisiae S288C Rev7p (REV7), partial mRNA
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]                [0:738]
+Query: No
+       definition line
+  Hit: gi|557761|emb|Z38059.1| (75317)
+       S.cerevisiae chromosome IX lambda clones 4357-3717
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]          [49007:49745]
+Query: No
+       definition line
+  Hit: gi|1293613|gb|U49845.1|SCU49845 (5028)
+       Saccharomyces cerevisiae TCP1-beta gene, partial cds; and Axl2p (AXL2)...
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]            [3299:4037]
+Query: No
+       definition line
+  Hit: gi|460247|gb|U07228.1|SCU07228 (3881)
+       Saccharomyces cerevisiae Rev7p (REV7) gene, complete cds
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1332.17     738          [0:738]             [767:1505]
+Query: No
+       definition line
+  Hit: gi|1802951738|gb|MN048020.1| (778)
+       Synthetic construct clone CCSBy3019H12 Gateway entry clone sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1330.37     737          [0:737]               [22:759]
+Query: No
+       definition line
+  Hit: gi|1163002342|gb|CP020182.1| (449612)
+       Saccharomyces cerevisiae strain SK1 chromosome IX, complete sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [78337:79075]
+Query: No
+       definition line
+  Hit: gi|1163001667|gb|CP020148.1| (443501)
+       Saccharomyces cerevisiae strain DBVPG6044 chromosome IX, complete sequ...
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [81833:82571]
+Query: No
+       definition line
+  Hit: gi|1134510291|gb|CP005069.2| (425972)
+       Saccharomyces cerevisiae YJM1527 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [80302:81040]
+Query: No
+       definition line
+  Hit: gi|1134510290|gb|CP005059.2| (417951)
+       Saccharomyces cerevisiae YJM1443 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [70306:71044]
+Query: No
+       definition line
+  Hit: gi|1115582951|gb|CP005058.2| (406354)
+       Saccharomyces cerevisiae YJM1439 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [64931:65669]
+Query: No
+       definition line
+  Hit: gi|1115582929|gb|CP005018.2| (414843)
+       Saccharomyces cerevisiae YJM1133 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [72683:73421]
+Query: No
+       definition line
+  Hit: gi|1115582911|gb|CP004988.2| (407432)
+       Saccharomyces cerevisiae YJM271 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [68060:68798]
+Query: No
+       definition line
+  Hit: gi|1047041489|gb|CP005036.2| (425287)
+       Saccharomyces cerevisiae YJM1338 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [80307:81045]
+Query: No
+       definition line
+  Hit: gi|1039024448|gb|CP008244.1| (438719)
+       Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_16 chromosome IX seq...
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [87340:88078]
+Query: No
+       definition line
+  Hit: gi|1039023751|gb|CP008193.1| (439020)
+       Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_5 chromosome IX sequ...
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [87427:88165]
+Query: No
+       definition line
+  Hit: gi|1034703564|gb|CP005025.2| (408535)
+       Saccharomyces cerevisiae YJM1248 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [66944:67682]
+Query: No
+       definition line
+  Hit: gi|1032679759|gb|CP005044.2| (415341)
+       Saccharomyces cerevisiae YJM1386 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [74832:75570]
+Query: No
+       definition line
+  Hit: gi|1031917692|gb|CP004983.2| (419435)
+       Saccharomyces cerevisiae YJM193 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [74474:75212]
+Query: No
+       definition line
+  Hit: gi|1028010342|gb|CP005062.2| (411966)
+       Saccharomyces cerevisiae YJM1450 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [70544:71282]
+Query: No
+       definition line
+  Hit: gi|1024297361|gb|CP005021.2| (422409)
+       Saccharomyces cerevisiae YJM1202 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [71169:71907]
+Query: No
+       definition line
+  Hit: gi|1020924883|gb|CP005060.2| (419865)
+       Saccharomyces cerevisiae YJM1444 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [70595:71333]
+Query: No
+       definition line
+  Hit: gi|1020924879|gb|CP005020.2| (417010)
+       Saccharomyces cerevisiae YJM1199 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [73282:74020]
+Query: No
+       definition line
+  Hit: gi|765543036|gb|CP004984.1| (443346)
+       Saccharomyces cerevisiae YJM195 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [76050:76788]
+Query: No
+       definition line
+  Hit: gi|1862882728|emb|LR813525.1| (407850)
+       Saccharomyces cerevisiae strain BJ4 genome assembly, chromosome: 9
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [78153:78891]
+Query: No
+       definition line
+  Hit: gi|1862876495|emb|LR813508.1| (418396)
+       Saccharomyces cerevisiae strain HLJ1 genome assembly, chromosome: 9
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1323.16     738          [0:738]          [71038:71776]
+Query: No
+       definition line
+  Hit: gi|1812626657|gb|CP048990.1| (429526)
+       Saccharomyces pastorianus strain CBS 1483 chromosome ScIX
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1318.65     738          [0:738]          [81136:81874]
+Query: No
+       definition line
+  Hit: gi|1789110197|gb|CP046089.1| (440269)
+       Saccharomyces cerevisiae strain CEN.PK113-7D chromosome IX
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1318.65     738          [0:738]          [82270:83008]
+Query: No
+       definition line
+  Hit: gi|1497470361|gb|CP024003.1| (443103)
+       Saccharomyces cerevisiae strain KSD-Yc chromosome 9
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1318.65     738          [0:738]          [92617:93355]
+Query: No
+       definition line
+  Hit: gi|1329886534|gb|CP022974.1| (449806)
+       Saccharomyces cerevisiae strain CEN.PK113-7D chromosome IX, complete s...
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1318.65     738          [0:738]          [83927:84665]
+Query: No
+       definition line
+  Hit: gi|1163011391|gb|CP020233.1| (428968)
+       Saccharomyces cerevisiae strain UWOPS03-461.4 chromosome IX, complete ...
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1318.65     738          [0:738]          [82801:83539]
+Query: No
+       definition line
+  Hit: gi|1163011091|gb|CP020216.1| (440919)
+       Saccharomyces cerevisiae strain YPS128 chromosome IX, complete sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1318.65     738          [0:738]          [83165:83903]
+Query: No
+       definition line
+  Hit: gi|1163002724|gb|CP020199.1| (431184)
+       Saccharomyces cerevisiae strain Y12 chromosome IX, complete sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1318.65     738          [0:738]          [80644:81382]
+Query: No
+       definition line
+  Hit: gi|1163001999|gb|CP020165.1| (419821)
+       Saccharomyces cerevisiae strain DBVPG6765 chromosome IX, complete sequ...
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1318.65     738          [0:738]          [73738:74476]
+Query: No
+       definition line
+  Hit: gi|1134510289|gb|CP005049.2| (416167)
+       Saccharomyces cerevisiae YJM1400 chromosome IX sequence
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1318.65     738          [0:738]          [68207:68945]
+Query: No
+       definition line
+  Hit: gi|1862907450|emb|LR813593.1| (727889)
+       Saccharomyces cerevisiae strain SX2 genome assembly, chromosome: 9
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1318.65     738          [0:738]          [73855:74593]
+Query: No
+       definition line
+  Hit: gi|1862888984|emb|LR813542.1| (442877)
+       Saccharomyces cerevisiae strain Y55 genome assembly, chromosome: 9
+ HSPs: ----  --------  ---------  ------  ---------------  ---------------------
+          #   E-value  Bit score    Span      Query range              Hit range
+       ----  --------  ---------  ------  ---------------  ---------------------
+          0         0    1318.65     738          [0:738]          [83576:84314]

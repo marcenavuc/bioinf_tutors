@@ -10,4 +10,9 @@
 Полезные ссылки:
   - https://stepik.org/course/497 - информация из конспектов (более подробно) в формате видео
   - https://bookdown.org/ndphillips/YaRrr/ - учебник по R с применением статистики
+  - Репозитории пакетов R:
+    - **CRAN**: https://cran.r-project.org
+    - **GitHub**: https://github.com
+    - **Bitbucket**: https://bitbucket.org
+    - **Bioconductor**: https://www.bioconductor.org
   - *\*дополняется\**

@@ -15,3 +15,4 @@ Useful links:
 * https://www.bioconductor.org/packages/devel/workflows/vignettes/maEndToEnd/inst/doc/MA-Workflow.html#9_rma_calibration_of_the_data
 * http://master.bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html#pca-plot-using-generalized-pca
 * https://combine-australia.github.io/RNAseq-R/06-rnaseq-day1.html
+* https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html
